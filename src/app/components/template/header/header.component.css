@@ -1,0 +1,8 @@
+.header{
+    display: flex;
+}
+
+.header a{
+    display: flex;
+    text-decoration: none;
+}
